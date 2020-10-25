@@ -1,0 +1,24 @@
+{
+  "name": "Typescript",
+  "version": "1.0.0",
+  "description": "Aprendendo TypeScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonardoVita/Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonardoVita/Typescript/issues"
+  },
+  "homepage": "https://github.com/LeonardoVita/Typescript#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
